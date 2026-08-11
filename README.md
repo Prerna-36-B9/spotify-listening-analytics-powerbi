@@ -135,23 +135,23 @@ to support the interactive dashboard.
 
 ### 🏠 Overview
 
-![Overview](Dashboard/overview.png)
+![Overview](Spotify-Listening-Analytics/Dashboard/overview.png)
 
 ### 📈 Trends
 
-![Trends](Dashboard/trends.png)
+![Trends](Spotify-Listening-Analytics/Dashboard/trends.png)
 
 ### 🎤 Artists
 
-![Artists](Dashboard/artists.png)
+![Artists](Spotify-Listening-Analytics/Dashboard/artists.png)
 
 ### 📱 Platform
 
-![Platform](Dashboard/platform.png)
+![Platform](Spotify-Listening-Analytics/Dashboard/platform.png)
 
 ### 💡 Insights
 
-![Insights](Dashboard/insights.png)
+![Insights](Spotify-Listening-Analytics/Dashboard/insights.png)
 
 ---
 
