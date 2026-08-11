@@ -15,6 +15,33 @@ listening history into an interactive and easy-to-understand analytics
 experience.
 
 ---
+## 📂 Dataset
+
+The dataset used in this project is a Spotify listening history dataset
+containing approximately **149,861 listening records**.
+
+The dataset includes information such as:
+
+- 🎵 Track name
+- 🎤 Artist name
+- 💿 Album name
+- 🕐 Listening timestamp
+- 📱 Platform
+- ⏱️ Listening duration
+- 🔀 Shuffle status
+- ⏭️ Skip status
+- ▶️ Reason for starting playback
+- ⏹️ Reason for ending playback
+
+### 🔗 Dataset Source
+
+The dataset was obtained from Kaggle:
+
+👉 [Spotify Listening History Dataset]([YOUR_KAGGLE_DATASET_LINK_HERE](https://www.kaggle.com/datasets/sgoutami/spotify-streaming-history/data?utm_source=chatgpt.com))
+
+> **Note:** The dataset is used for educational and analytical purposes.
+> Please refer to the original dataset page for its licensing and usage terms.
+
 
 ## ✨ Dashboard Sections
 
